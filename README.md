@@ -11,7 +11,7 @@ ID: Morgana-File
 Date: Added to the Files September 17, 2026
 
 Birthday-Sprite
-Sprite Ability: when opening a chest, get a birthday cake to heal up.
+Sprite Ability: When opening a chest, get a birthday cake to heal up.
 ID: Birthday-File
 Date: Added to the Files September 17, 2026
 
