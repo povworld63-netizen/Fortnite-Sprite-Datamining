@@ -14,7 +14,7 @@ Birthday-Sprite
 Sprite Ability: Whn opening a chest, have a chance to find a birthday cake that heals you.
 ID: Birthday-File
 Date: Added to the Files September 17, 2026
-----------------------------------------------
+--------------------------------------------
 Waiting To Be Added:
 
 Holofoil-Variant
@@ -40,3 +40,30 @@ Trick-or-Treat-Variant
 Variant Perk: Unknown
 Status: Unreleased
 
+
+
+
+const sprites = {
+    sprite: {
+        name: "",
+        id: "",
+        ability: "",
+        description: "",
+        releaseDate: ""
+    },
+
+    spriteVariant: {
+        name: "",
+        parentSprite: "",
+        variant: "",
+        ability: "",
+        description: ""
+    },
+
+    data: {
+        status: "",
+        source: "",
+        firstSeen: "",
+        lastUpdated: ""
+    }
+};
