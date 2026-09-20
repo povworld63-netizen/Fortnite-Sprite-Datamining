@@ -14,3 +14,29 @@ Birthday-Sprite
 Sprite Ability: Whn opening a chest, have a chance to find a birthday cake that heals you.
 ID: Birthday-File
 Date: Added to the Files September 17, 2026
+----------------------------------------------
+Waiting To Be Added:
+
+Holofoil-Variant
+Variant Perk: Gives a 5% chance for you and your squad to find rare Sprite variants.
+
+Galaxy-Variant
+Variant Perk: Grants 20% more ammo.
+
+Gummy-Variant
+Variant Perk: Grants 20% more sprite dust upon extraction.
+
+Honey-Sprite
+Sprite Ability: when dealing damage to enemies, a beehive spawns and deals light damage to the enemy before dispersing.
+
+Dumpster-Dive-Sprite
+Sprite Ability: When hiding in a dumpster, the Sprite gathers loot, and gives it to you.
+
+Reaper-Variant
+Variant Perk: Unknown
+Status: Unreleased
+
+Trick-or-Treat-Variant
+Variant Perk: Unknown
+Status: Unreleased
+
