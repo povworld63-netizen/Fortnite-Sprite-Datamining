@@ -28,7 +28,7 @@ Gummy-Variant
 Variant Perk: Grants 20% more sprite dust upon extraction.
 
 Honey-Sprite
-Sprite Ability: when dealing damage to enemies, a beehive spawns and deals light damage to the enemy before dispersing.
+Sprite Ability: When dealing damage to enemies, a beehive spawns and deals light damage to the enemy before dispersing.
 
 Dumpster-Dive-Sprite
 Sprite Ability: When hiding in a dumpster, the Sprite gathers loot, and gives it to you.
