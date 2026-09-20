@@ -6,16 +6,17 @@ ID: Bounty-Hunter-File
 Date: Added to the Files September 17, 2026
 
 Morgana-Sprite
-Sprite Abilty: Healing items are more effective.
+Sprite Ability: Healing items are more effective.
 ID: Morgana-File
 Date: Added to the Files September 17, 2026
 
 Birthday-Sprite
-Sprite Ability: Whn opening a chest, have a chance to find a birthday cake that heals you.
+Sprite Ability: when opening a chest, get a birthday cake to heal up.
 ID: Birthday-File
 Date: Added to the Files September 17, 2026
+
 --------------------------------------------
-Waiting To Be Added:
+Waiting To Be Added To Files:
 
 Holofoil-Variant
 Variant Perk: Gives a 5% chance for you and your squad to find rare Sprite variants.
