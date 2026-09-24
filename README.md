@@ -1,15 +1,5 @@
 # Fortnite-Sprite-Datamining
 
-Bounty-Hunter-Variant
-Variant Boost: Upon earning an elimination, get a chance to get a bonus sprite!
-ID: Bounty-Hunter-File
-Date: Added to the Files September 17, 2026
-
-Morgana-Sprite
-Sprite Ability: Healing items are more effective.
-ID: Morgana-File
-Date: Added to the Files September 17, 2026
-
 Birthday-Sprite
 Sprite Ability: When opening a chest, get a birthday cake to heal up.
 ID: Birthday-File
@@ -40,6 +30,15 @@ Status: Unreleased
 Trick-or-Treat-Variant
 Variant Perk: Unknown
 Status: Unreleased
+
+-----------------------------------------
+Upcoming:
+
+Vampire-Sprite
+Sprite Ability: The Vampire Sprite converts part of the damage you deal into white Health, with the amount increasing as it levels up.
+
+Phase-Dash-Sprite
+Sprite Ability: Unknown
 
 
 
